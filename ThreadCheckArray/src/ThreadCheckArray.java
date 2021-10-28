@@ -1,3 +1,8 @@
+
+/**
+ * ThreadCheckArray
+ * 
+ * */
 public class ThreadCheckArray implements Runnable 
 {
 	private boolean flag;
